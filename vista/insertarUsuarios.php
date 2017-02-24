@@ -8,11 +8,11 @@
       <div class="">
         <fieldset>
           <label>Usuario:</label>
-          <input type="text" name="usuario">
+          <input type="text" id="usuario">
           <label>Contraseña:</label>
-          <input type="password" name="pass">
-          <input type="submit">
-        </fieldset>    
+          <input type="password" id="pass">
+          <input type="button">
+        </fieldset>
       </div>
   </body>
 </html>
